@@ -1,8 +1,18 @@
 # Mean-Variance-Standard Deviation Calculator
 
-This project calculates the mean, variance, standard deviation, max, min, and sum of a 3x3 matrix using NumPy.
+📊 Interactive Mean–Variance–Standard Deviation Calculator
 
-It is part of the FreeCodeCamp Data Analysis with Python certification.
+This project is an interactive statistical analysis tool built with Python and NumPy. It converts user input into a structured 3×3 matrix and instantly calculates key metrics such as:
+
+📈 Mean
+📊 Variance
+📉 Standard Deviation
+🔢 Minimum & Maximum
+➕ Sum
+
+In real-world data analysis, these calculations are essential during Exploratory Data Analysis (EDA) to understand data distribution, identify patterns, and validate datasets before applying machine learning or business analytics techniques.
+
+🚀 The project highlights practical skills in data manipulation, matrix operations, and statistical computation used in real analytics workflows.
 
 ---
 
